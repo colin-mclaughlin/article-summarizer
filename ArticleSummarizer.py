@@ -1,6 +1,3 @@
-# GUI
-import tkinter as tk
-
 # NLP
 import nltk
 from textblob import TextBlob
